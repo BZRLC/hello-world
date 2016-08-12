@@ -1,9 +1,12 @@
 # Git初级教程
 
 有时间的可以先看看教程：
+
 1. http://rogerdudler.github.io/git-guide/index.zh.html
+
 2. http://kbroman.org/github_tutorial/
- 
+
+3. [官方教程Git-pro-V2.0](https://git-scm.com/book/zh/v2)
 
 ## 下载github repository
 
@@ -57,9 +60,10 @@ http://www.ruanyifeng.com/blog/2012/07/git.html
 
 http://www.ruanyifeng.com/blog/2015/12/git-workflow.html
 
+## Pull request
 
+简称 PR，为别人的开源项目贡献代码。。
 
 ## 常用命令参考
-
 
 http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html?utm_source=tool.lu
